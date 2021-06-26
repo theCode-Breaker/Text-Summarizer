@@ -1,4 +1,4 @@
-# text_summarizer
+# Text Summarizer
 It is text summarization using natural language processing. 
 
 I have used nltk to summarize text data.
